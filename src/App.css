@@ -78,3 +78,11 @@ button {
   font-size: 20px;
   color: rgb(75, 181, 67);
 }
+
+#mainForm {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #cccccc;
+  background-color: #efefef;
+  text-align: left;
+}

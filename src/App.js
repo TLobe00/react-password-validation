@@ -62,7 +62,7 @@ function App() {
         <span className="success">Successfully submitted ✓</span>
       ) : null}
       <form onSubmit={handleSubmit}>
-        <div>
+        <div id="mainForm">
         <label for="password">Password</label>
         <input
           type="password"
